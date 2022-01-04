@@ -43,9 +43,8 @@ shitty code
 Usage of kotlin features and help enhance the code readability    
 kotlin feature examples
 ~~~kotlin
-Timer().schedule(2000L) { 
+mc.shutdown() 
     // your code
-}
 ~~~
 not using kotlin feature
 ~~~kotlin
