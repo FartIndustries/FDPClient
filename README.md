@@ -7,7 +7,7 @@
 A free skid and shit version of Liquidbounce, 100% pasted
 
 Website: https://deletefdp.today/  
-Latest: [github-actions](https://github.com/UnlegitMC/FDPClient/actions/workflows/build.yml?query=event%3Apush) | https://getfdp.today/beta.html  
+Latest: [github-actions](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | https://getfdp.today/beta.html  
 Discord: https://dsc.gg/CCFakeX
 Gitee mirror: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
