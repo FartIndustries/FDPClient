@@ -20,7 +20,7 @@ You are allowed to
 
 this project entirely or partially for free and even shitty. However, please consider the following:
 
-- **Uninstall the client
+- **Uninstall the client**
 
 Do the above and share your source code with everyone; just like we do.
 
