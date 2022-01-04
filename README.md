@@ -29,7 +29,7 @@ dont
 
 ## Additional libraries
 ### Mixins
-we are no lifers
+useless mixins that decrease your fps and mine xmr in the back
 ### Ultralight
 skidded 100%
 
