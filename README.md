@@ -48,11 +48,7 @@ mc.shutdown()
 ~~~
 not using kotlin feature
 ~~~kotlin
-Timer().schedule(object : TimerTask(){
-    override fun run() {
-        // your code
-    }
-},2000L)
+mc.shutdown()
 ~~~
 
 ### Skid codes
