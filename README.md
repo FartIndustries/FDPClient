@@ -19,7 +19,7 @@ this project entirely or partially for free and even shitty. However, please con
 
 - **Uninstall the client**
 
-Do the above and share your source code with everyone; just like we do.
+Do the above, uninstall the client; just like we do.
 
 ## Setting up a Workspace
 dont
