@@ -1,6 +1,7 @@
 # FDSkid Client
 [![Retard Status](https://img.shields.io/badge/retard-yes-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![image](https://user-images.githubusercontent.com/97126413/148205432-aa437d43-8e05-4c8b-b0eb-3ff1e6926e37.png)
+![image](https://user-images.githubusercontent.com/97126413/148205728-70cd46d1-24e8-432a-bc61-c0b2dcc43e95.png)
+
 
 A free skid and shit version of Liquidbounce, 100% pasted
 
