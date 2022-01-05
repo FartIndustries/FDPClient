@@ -28,7 +28,7 @@ dont
 ### Mixins
 useless mixins that decrease your fps and mine xmr in the back
 ### Ultralight
-skidded 100%
+improperly skidded
 
 ## Contributing
 we dont care 2
