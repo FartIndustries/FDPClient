@@ -52,6 +52,6 @@ mc.shutdown()
 skidded as fuck
 
 ### Useless features
-useless features take 99% of our clie nt men))
+useless features take 99% of our client 
 
 
