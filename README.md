@@ -4,7 +4,7 @@
 A free skid and shit version of Liquidbounce, 100% pasted
 
 Website: https://deletefdp.today/  
-Latest: [github-actions](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [https://getfdp.today/beta.html](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+Latest: [github-actions](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [https://deletefdp.today/beta.html](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 Discord: https://dsc.gg/CCFakeX
 Gitee mirror: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
