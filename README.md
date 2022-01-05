@@ -1,5 +1,7 @@
 # FDSkid Client
 [![Retard Status](https://img.shields.io/badge/retard-yes-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![image](https://user-images.githubusercontent.com/97126413/148205728-70cd46d1-24e8-432a-bc61-c0b2dcc43e95.png)
+
 
 A free skid and shit version of Liquidbounce, 100% pasted
 
@@ -19,7 +21,7 @@ this project entirely or partially for free and even shitty. However, please con
 
 - **Uninstall the client**
 
-Do the above and share your source code with everyone; just like we do.
+Do the above, uninstall the client; just like how 100 iq users do.
 
 ## Setting up a Workspace
 dont
@@ -28,17 +30,15 @@ dont
 ### Mixins
 useless mixins that decrease your fps and mine xmr in the back
 ### Ultralight
-skidded 100%
+improperly skidded
 
 ## Contributing
 we dont care 2
 
 ### Language and Code Quality
-shitty code
+shitty code, broken javascript with the skidded version of nashorn
 
 #### Kotlin features
-Usage of kotlin features and help enhance the code readability    
-kotlin feature examples
 ~~~kotlin
 mc.shutdown() 
     // your code
@@ -52,6 +52,6 @@ mc.shutdown()
 skidded as fuck
 
 ### Useless features
-useless features take 99% of our clie nt men))
+useless features take 99% of our client 
 
-# **trolled by CCFakeX**
+
