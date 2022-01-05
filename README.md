@@ -1,6 +1,6 @@
 # FDSkid Client
-[![Retard Status]
-(https://img.shields.io/badge/retard-yes-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Retard Status](https://img.shields.io/badge/retard-yes-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 A free skid and shit version of Liquidbounce, 100% pasted
 
 Website: https://deletefdp.today/  
