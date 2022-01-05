@@ -34,11 +34,9 @@ improperly skidded
 we dont care 2
 
 ### Language and Code Quality
-shitty code
+shitty code, broken javascript with the skidded version of nashorn
 
 #### Kotlin features
-Usage of kotlin features and help enhance the code readability    
-kotlin feature examples
 ~~~kotlin
 mc.shutdown() 
     // your code
