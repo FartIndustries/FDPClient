@@ -1,13 +1,9 @@
-# free mine craft hack 2025 download no virus no survey 100% working fortnite generator
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UnlegitMC/FDPClient)
-![GitHub lines of code](https://tokei.rs/b1/github/UnlegitMC/FDPClient)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a41ae7bde63c143e426a/maintainability)](https://codeclimate.com/github/UnlegitMC/FDPClient/maintainability)
-![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen)  
+# FDSkid Client
+[![Retard Status](https://img.shields.io/badge/retard-yes-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 A free skid and shit version of Liquidbounce, 100% pasted
 
 Website: https://deletefdp.today/  
-Latest: [github-actions](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | https://getfdp.today/beta.html  
+Latest: [github-actions](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [https://getfdp.today/beta.html](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 Discord: https://dsc.gg/CCFakeX
 Gitee mirror: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
